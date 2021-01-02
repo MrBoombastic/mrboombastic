@@ -39,6 +39,7 @@ Fajne rzeczy, ale w prywatnych repozytoriach:
 
 # Obrazkowe wypełniacze, żeby dzieciaczki miały też co oglądać:
 - Tylko publiczne repozytoria:
+  
     ![Moje statystyki](https://github-readme-stats.vercel.app/api?username=MrBoombastic&theme=blue-green)
     ![Też statystyki](https://github-readme-stats.vercel.app/api/top-langs/?username=MrBoombastic&theme=blue-green)
 - Mój największy projekt - BOOMfinity (można kliknąć 😮):
