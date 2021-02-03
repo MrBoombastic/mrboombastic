@@ -49,7 +49,7 @@ Fajne rzeczy, ale w prywatnych repozytoriach:
 
 # Moja hejtlista:
 - PHP
-- Rafałki, Patrzyczki i inne dzieciaczki z Discorda, co trują życie wiecznie tymi samymi pytaniami zadawanymi na DM
+- Rafałki, Patryczki i inne dzieciaczki z Discorda, co trują życie wiecznie tymi samymi pytaniami zadawanymi na DM
 - TikTok
 - Fortnite
 - Polityka ubijania losowej aplikacji Google średnio co 3 miesiące
