@@ -1,10 +1,10 @@
 ![Żyćko](https://img.shields.io/badge/Życie-owszem-mint.svg) ![Mózg](https://img.shields.io/badge/Mózg-100%25-mint.svg) ![Cringe](https://img.shields.io/badge/Cringe-trochę-orange.svg)
 # Siema 👋
-Jestem MrBoombastic - P O T Ę Ż N Y D E V E L O P E R 
+Jestem MrBoombastic - P O T Ę Ż N Y  D E V E L O P E R 
 
-Mówią mi, że jestem zabawny, inteligentny i rozsądny, ale to nie prawda. Każde decyzje podejmuję tworząc nowy wątek na StackOverflow. Lub na podobnych stronach.
+Mówią mi, że jestem zabawny, inteligentny i rozsądny, ale to nieprawda. Każdą decyzję podejmuję tworząc nowy wątek na StackOverflow lub na podobnych stronach.
 
-Moje konta znajdziesz praktycznie wszędzie. Najszybszy kontakt ze mną uzyskasz, pisząc do mnie na Discordzie (MrBoombastic#4933, ID: 363365720295473154, PESEL zgubiłem). Co ciekawe, mój adres e-mail jest żenujący.
+Moje konta znajdziesz praktycznie wszędzie. Najszybszy kontakt ze mną uzyskasz pisząc do mnie na Discordzie (MrBoombastic#6610, ID: 363365720295473154, PESEL zgubiłem). Co ciekawe, mój adres e-mail jest żenujący.
 # Moje zainteresowania:
 - JavaScript
 - Node.JS 💖
@@ -20,6 +20,7 @@ Moje konta znajdziesz praktycznie wszędzie. Najszybszy kontakt ze mną uzyskasz
 # Moje prace:
 Praktycznie wszystko, co jest warte uwagi, znajduje się na moim GitHubie.
 - FmRadioStreamer — nadawanie własnych utworów na falach radiowych oparte o istniejące biblioteki.
+- HurricaneElectricAutoIPv6TunnelCreator - aplikacja do szybkiego stawiania tuneli od HE.
 - RadioEskaGenerator — przestarzała apka do wyciągania URL-i streamów ze stacji grupy Eska. Parę tygodni po wydaniu Eska przestała zabezpieczać swoje streamy.
 - OpenStonoga, OpenPapaj, nosaczapi-unofficial — pseudoAPI ze śmiesznymi obrazkami.
 - HealthPanel (skrótowo HPanel) - szwajcarski scyzoryk, tyle że dla zdrowia. Praca konkursowa.
