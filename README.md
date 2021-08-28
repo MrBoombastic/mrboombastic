@@ -7,7 +7,8 @@ Mówią mi, że jestem zabawny, inteligentny i rozsądny, ale to nieprawda. Każ
 Moje konta znajdziesz praktycznie wszędzie. Najszybszy kontakt ze mną uzyskasz pisząc do mnie na Discordzie (MrBoombastic#6610, ID: 363365720295473154, PESEL zgubiłem). Co ciekawe, mój adres e-mail jest żenujący.
 # Moje zainteresowania:
 - JavaScript
-- Node.JS 💖
+- Node.JS
+- GoLang 💖
 - Ogólnie pojęta chmura — zarządzanie VPS-ami, sieciami, zasadami. Ejżur fajna sprawa.
 - RaspberryPI
 - Krótkofalarstwo. Bajo jajo.
@@ -54,7 +55,7 @@ Fajne rzeczy, ale w prywatnych repozytoriach:
 - TikTok
 - Fortnite
 - Polityka ubijania losowej aplikacji Google średnio co 3 miesiące
-- Syntax GoLanga
+- ~~Syntax GoLanga~~
 - Apple - It just doesn't work
 - Polskie nazwy zmiennych w kodzie
 - Kod [Unxa](https://github.com/unxcepted). Jest beznadziejny i zawsze trzeba poprawiać/pisać od zera.
