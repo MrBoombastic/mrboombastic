@@ -22,7 +22,8 @@ Moje konta znajdziesz praktycznie wszędzie. Najszybszy kontakt ze mną uzyskasz
 Praktycznie wszystko, co jest warte uwagi, znajduje się na moim GitHubie.
 - FmRadioStreamer — nadawanie własnych utworów na falach radiowych oparte o istniejące biblioteki.
 - HurricaneElectricAutoIPv6TunnelCreator - aplikacja do szybkiego stawiania tuneli od HE.
-- RadioEskaGenerator — przestarzała apka do wyciągania URL-i streamów ze stacji grupy Eska. Parę tygodni po wydaniu Eska przestała zabezpieczać swoje streamy.
+- VirginMobileClient — kiedy z jakiegoś powodu nie chcesz używać apki VM na telefonie, przychodzę z pomocą!
+- GrOxyP - do sprawdzania, czy dane IP należy do puli VPN lub proxy.
 - OpenStonoga, OpenPapaj, nosaczapi-unofficial — pseudoAPI ze śmiesznymi obrazkami.
 - HealthPanel (skrótowo HPanel) - szwajcarski scyzoryk, tyle że dla zdrowia. Praca konkursowa.
 
