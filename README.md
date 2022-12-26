@@ -33,7 +33,7 @@ Fajne rzeczy, ale w prywatnych repozytoriach:
 - TrelloMailer - kopiowanie rzeczy z maila na tablice Trello. Używana podczas e-lekcji roku szkolnego 2019-2020.
 
 # Szybkie Q&A, tylko że same odpowiedzi:
-- Mój nick perfidnie podkradłem z utworu Shaggyego.
+- Mój nick perfidnie podkradłem z utworu Shaggy'ego.
 - Avatar podkradłem swojemu własnemu botowi.
 - \***** ***
 - Tak, JavaScript bywa do kitu, ale to coś jak z masochizmem — mi to odpowiada. No może oprócz braku wielowątkowości.
@@ -47,7 +47,7 @@ Fajne rzeczy, ale w prywatnych repozytoriach:
     ![Moje statystyki](https://github-readme-stats.vercel.app/api?username=MrBoombastic&theme=blue-green)
     ![Też statystyki](https://github-readme-stats.vercel.app/api/top-langs/?username=MrBoombastic&theme=blue-green)
 - Mój największy projekt - BOOMfinity (można kliknąć 😮):
-    [![BOOMfinity](https://cdn.discordapp.com/attachments/735878886570852575/794936298744840223/logo.png)](https://boomfinity.xyz)
+    [![BOOMfinity](https://cdn.discordapp.com/avatars/450017151323996173/9255dd75f4dcfe2c7ca17393a7dcdebf.png?size=4096)](https://boomfinity.xyz)
 - Skończyły mi się pomysły na obrazki.
 
 # Moja hejtlista:
