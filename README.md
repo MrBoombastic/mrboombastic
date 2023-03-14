@@ -1,64 +1,70 @@
-![Żyćko](https://img.shields.io/badge/Życie-owszem-mint.svg) ![Mózg](https://img.shields.io/badge/Mózg-100%25-mint.svg) ![Cringe](https://img.shields.io/badge/Cringe-trochę-orange.svg)
-# Siema 👋
-Jestem MrBoombastic - P O T Ę Ż N Y  D E V E L O P E R 
+![Life](https://img.shields.io/badge/Life-sure-mint.svg) ![Brain](https://img.shields.io/badge/Brain-up--to--date-mint.svg) ![Cringe](https://img.shields.io/badge/Cringe-a_little-orange.svg)
 
-Mówią mi, że jestem zabawny, inteligentny i rozsądny, ale to nieprawda. Każdą decyzję podejmuję tworząc nowy wątek na StackOverflow lub na podobnych stronach.
+# Hello 👋
 
-Moje konta znajdziesz praktycznie wszędzie. Najszybszy kontakt ze mną uzyskasz pisząc do mnie na Discordzie (MrBoombastic#6610, ID: 363365720295473154, PESEL zgubiłem). Co ciekawe, mój adres e-mail jest żenujący.
-# Moje zainteresowania:
-- JavaScript
-- Node.JS
-- GoLang 💖
-- Ogólnie pojęta chmura — zarządzanie VPS-ami, sieciami, zasadami. Ejżur fajna sprawa.
-- RaspberryPI
-- Krótkofalarstwo. Bajo jajo.
-- Systemy oparte o Linux. Traktuje je bardziej ciekawostkę niż daily driver. Przynajmniej na desktopie.
-- Komputery od strony hardware. Procesory, karty graficzne, premiery tylko na papierze.
-- Muzyka. Szczególnie lata 70., 80. i 90. Współczesne utwory to dla mnie w większości badziewie. Mój gust jest nadal jednak „nierównomierny” - lubię wszystko od klasycznej muzyki elektronicznej Jean-Michel Jarre, przez wczesną muzykę techno, po muzykę zespołu ABBA.
-- HTML i CSS. Umiem, ale się nie cieszę.
-- NoSQL, ze szczególnym uwzględnieniem RethinkDB.
+I'm MrBoombastic - T H E&nbsp;&nbsp;G R E A T&nbsp;&nbsp;D E V E L O P E R
 
-# Moje prace:
-Praktycznie wszystko, co jest warte uwagi, znajduje się na moim GitHubie.
-- FmRadioStreamer — nadawanie własnych utworów na falach radiowych oparte o istniejące biblioteki.
-- HurricaneElectricAutoIPv6TunnelCreator - aplikacja do szybkiego stawiania tuneli od HE.
-- VirginMobileClient — kiedy z jakiegoś powodu nie chcesz używać apki VM na telefonie, przychodzę z pomocą!
-- GrOxyP - do sprawdzania, czy dane IP należy do puli VPN lub proxy.
-- OpenStonoga, OpenPapaj, nosaczapi-unofficial — pseudoAPI ze śmiesznymi obrazkami.
-- HealthPanel (skrótowo HPanel) - szwajcarski scyzoryk, tyle że dla zdrowia. Praca konkursowa.
+People say I'm funny, intelligent and sensible, but I'm not. I make every decision by starting a new thread on
+StackOverflow or similar sites. You can contact me by clicking on my website under my profile
 
-Fajne rzeczy, ale w prywatnych repozytoriach:
-- BOOMbo BOT - śmieszny bot na Discorda, 2018-2020.
-- BOOMfinity - śmieszny bot na Discorda z dodatkami, 2020-teraz.
-- TrelloMailer - kopiowanie rzeczy z maila na tablice Trello. Używana podczas e-lekcji roku szkolnego 2019-2020.
+# My Interests:
 
-# Szybkie Q&A, tylko że same odpowiedzi:
-- Mój nick perfidnie podkradłem z utworu Shaggy'ego.
-- Avatar podkradłem swojemu własnemu botowi.
+- 😿 JavaScript/Node.JS
+- 💖 Go
+- ☁️ Cloud in general - managing VPSes, networks, policies. Azure and GCP are cool.
+- 🍉 RaspberryPI
+- 🤔 Linux based systems. I treat them more as a curiosity than a daily driver. At least on the desktop.
+- 💾 Computers on the hardware side. Processors, graphics cards, and releases that only happen on paper.
+- 🥚 Shortwave radio
+- 🎹 Music - especially from the 70s to the 90s. I like everything from classic electronic music by Jean-Michel Jarre and
+  Kraftwerk, by early techno music, to Depeche Mode and Pink Floyd. Today's music is mostly crap
+  to me.
+
+# My projects:
+
+- 📻 FmRadioStreamer - an app for broadcasting your own songs on the air, based on existing libraries.
+- 🔥 HEAT - an app to quickly set up Hurricane Electric tunnels.
+- 🕵️ OSINTCord - retrieves data from almost all members of Discord servers.
+- 🕸️ GrOxyP - a microservice to check if an IP belongs to a VPN or proxy pool.
+- 👻 GhostBackupper - easily backup your Ghost CMS instance.
+
+# Currently working on:
+
+- [BOOMfinity](https://boomfinity.xyz) - funny Discord bot with some nice add-ons
+- [NaProdukcji](https://naprodukcji.xyz) - my blog about technology and security
+- [ZaufanaTrzeciaStrona](https://zaufanatrzeciastrona.pl/) - 'only' tools research and development
+
+# Quick Q&A, only that the answers themselves:
+
+- I've stolen my nickname from a Shaggy song.
+- And yes, I've stolen my avatar from my own bot too.
 - \***** ***
-- Tak, JavaScript bywa do kitu, ale to coś jak z masochizmem — mi to odpowiada. No może oprócz braku wielowątkowości.
-- Tak, PHP powinien odejść razem z Flashem i Silverlightem.
-- Chciałbym umieć frontend. Znaczy umiem, ale brzydko. Kiepski ze mnie UX designer.
+- JavaScript sucks sometimes, but it's like masochism - I can happily live with it. Well, except maybe for the lack of
+  multithreading.
+- PHP should die along with Flash and Silverlight.
+- I wish I could write beautiful frontend. I mean, I can, but only ugly. I'm a bad UX designer.
 
-# Obrazkowe wypełniacze, żeby dzieciaczki miały też co oglądać:
-- Tylko publiczne repozytoria:
+# Image fillers, so you can have finally something to look at:
 
+- Public repositories only:
 
-    ![Moje statystyki](https://github-readme-stats.vercel.app/api?username=MrBoombastic&theme=blue-green)
-    ![Też statystyki](https://github-readme-stats.vercel.app/api/top-langs/?username=MrBoombastic&theme=blue-green)
-- Mój największy projekt - BOOMfinity (można kliknąć 😮):
-    [![BOOMfinity](https://cdn.discordapp.com/avatars/450017151323996173/9255dd75f4dcfe2c7ca17393a7dcdebf.png?size=4096)](https://boomfinity.xyz)
-- Skończyły mi się pomysły na obrazki.
+![My Stats](https://github-readme-stats.vercel.app/api?username=MrBoombastic&theme=blue-green)
 
-# Moja hejtlista:
+![Also stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MrBoombastic&theme=blue-green)
+
+- My biggest project - BOOMfinity (you can click on it 😮):
+  [![BOOMfinity](https://cdn.discordapp.com/avatars/450017151323996173/9255dd75f4dcfe2c7ca17393a7dcdebf.png?size=4096)](https://boomfinity.xyz)
+- I've run out of ideas for pictures.
+
+# My list of hated things:
+
 - PHP
-- Rafałki, Patryczki i inne dzieciaczki z Discorda, co trują życie wiecznie tymi samymi pytaniami zadawanymi na DM
+- n00bz who poison my life forever with the same questions they ask on DMs.
 - TikTok
 - Fortnite
-- Polityka ubijania losowej aplikacji Google średnio co 3 miesiące
-- ~~Syntax GoLanga~~
-- Apple - It just doesn't work
-- Polskie nazwy zmiennych w kodzie
-- Kod [Unxa](https://github.com/unxcepted). Jest beznadziejny i zawsze trzeba poprawiać/pisać od zera.
+- Google's policy of culling a random app every 3 months on average.
+- Apple - it just doesn't work
+- Polish variable names in code.
+- [Unx'](https://github.com/unxcepted) code. It's hopeless and always needs to be rewritten from scratch.
 
-To na tyle o mnie. Jak mi się coś przypomni, to dopiszę. 😄
+That's about it. If I remember anything, I'll add it. 😄
