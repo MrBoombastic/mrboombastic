@@ -7,7 +7,7 @@ I'm MrBoombastic - T H E&nbsp;&nbsp;G R E A T&nbsp;&nbsp;D E V E L O P E R
 People say I'm funny, intelligent and sensible, but I'm not. I make every decision by starting a new thread on
 StackOverflow or similar sites. You can contact me by clicking on my website under my profile
 
-# My Interests:
+# My interests:
 
 - 😿 JavaScript/Node.JS
 - 💖 Go
@@ -34,7 +34,7 @@ StackOverflow or similar sites. You can contact me by clicking on my website und
 - [NaProdukcji](https://naprodukcji.xyz) - my blog about technology and security
 - [ZaufanaTrzeciaStrona](https://zaufanatrzeciastrona.pl/) - 'only' tools research and development
 
-# Quick Q&A, only that the answers themselves:
+# Quick Q&A, but without the Q:
 
 - I've stolen my nickname from a Shaggy song.
 - And yes, I've stolen my avatar from my own bot too.
